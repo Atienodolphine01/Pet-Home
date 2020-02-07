@@ -76,7 +76,20 @@
     box-sizing: border-box;
     background-color: #18181a;
   }
-  #footer-info{
+  #footer-info h2{
     font-family: 'Open Sans Condensed', sans-serif;
-
+    font-size: large;
+    color: white;
+    display: block;
+    font-weight: 200;
+    width: 100%;
+    padding-bottom: 5px;
+  }
+    #footer-info a{
+      font-family: 'Open Sans Condensed', sans-serif;
+      font-size: large;
+      color: white;
+      display: block;
+      font-weight: 200;
+      width: 100%;
   }
