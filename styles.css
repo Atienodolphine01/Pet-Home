@@ -62,3 +62,9 @@
   #about h1{
       text-align: center;
   }
+  #footer{
+    background-color: #000;
+    position: fixed;
+    height: 100px;
+    margin-top: 10px;
+  }
