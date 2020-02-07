@@ -3,7 +3,7 @@
     width: 100%;
     height: 80px;
     display: block;
-    background-color: black;
+    background-color: rgb(48, 45, 45);
 }
 .inner-nav{
     width: 1350px;
@@ -14,7 +14,7 @@
 }
 .pill-nav a{
     display: block;
-    color: rgb(253, 249, 249);
+    color: rgb(75, 74, 74);
     text-align: center;
     padding: 14px;
     text-decoration: none;
@@ -24,7 +24,7 @@
     margin-top: 20px;    
 }
 .pill-nav a:hover {
-    color: black;
+    color: white;
   }
   header{
     background-image: url("beautiful_Pets.jpeg");
