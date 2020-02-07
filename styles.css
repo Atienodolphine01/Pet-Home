@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
 .nav{
     position: fixed;
     width: 100%;
@@ -63,8 +69,10 @@
       text-align: center;
   }
   #footer{
-    background-color: #000;
-    position: fixed;
-    height: 100px;
-    margin-top: 10px;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    padding: 70px 0;
+    box-sizing: border-box;
+    background-color: #18181a;
   }
