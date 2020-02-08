@@ -4,7 +4,6 @@
     height: 80px;
     display: block;
     background-color: rgba(12, 0, 12, 0.938);
-    z-index: 3;
 }
 .inner-header{
     width: 1350px;
@@ -57,10 +56,6 @@
     position: absolute;
     top: 50%;
     left: 40%;
-    -webkit-transform: translatey(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-    z-index: 1;
     font-family: 'teko' sans-serif
   }
   .title h1{
