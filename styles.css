@@ -12,7 +12,7 @@
     margin: 0 auto;
     background-color: rgb(226, 117, 135);
 }
-.pill-nav a{
+  .nav a{
     display: block;
     color: rgb(75, 74, 74);
     text-align: center;
