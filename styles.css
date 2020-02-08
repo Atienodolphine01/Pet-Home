@@ -32,7 +32,7 @@
 .pill-nav a:hover {
     color: white;
 }
-  header{
+  .header{
     background-image: url("beautiful_Pets.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
