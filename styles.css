@@ -3,9 +3,9 @@
     width: 100%;
     height: 80px;
     display: block;
-    background-color: rgb(48, 45, 45);
+    background-color: rgb(241, 10, 172);
 }
-.inner-nav{
+.inner-header{
     width: 1350px;
     height: 100%;
     display: block;
