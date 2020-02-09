@@ -3,4 +3,6 @@ Pet Home is working in different parts of the country neutering and providing me
 # Authors
 Dolphine Atieno
 # File list
-Used html and css
+1. HTML
+2. CSS
+3. README
