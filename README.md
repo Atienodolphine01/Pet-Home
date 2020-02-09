@@ -3,5 +3,6 @@ Pet Home is working in different parts of the country neutering and providing me
 # Authors
 Dolphine Atieno
 # File list
-![](https://miro.medium.com/max/700/1*6lGiuTY6uc2oHJk5qfcRHg.png)
-![](https://bit.ly/3btmpjp)
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kurzy-it.sk%2Fhtml-css-zaklady-tvorby-www-nitra&psig=AOvVaw2RaxWQ6dC-fCqHuhgo9Kcl&ust=1581328067359000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj3oqOYxOcCFQAAAAAdAAAAABAT)
+
