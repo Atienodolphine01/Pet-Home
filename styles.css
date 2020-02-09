@@ -106,12 +106,12 @@ body{
     background-color: rgba(12, 0, 12, 0.938);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(192, 72, 92);
-    height: 300px;
+    height: 350px;
     position: relative;
   }
   #footer #footer-content{
     border: 1px solid rgb(236 18 127);
-    height: 240px;
+    height: 290px;
   }
   #footer #footer-bottom{
     background-color: #363836;
@@ -124,3 +124,62 @@ body{
     left: 0;
     padding-top: 20px;
   }
+#footer-section contact{
+  display: block;
+}
+#footer-section contact{
+  margin: auto;
+  text-align: center;
+  color: aliceblue;
+}
+#contact-form{
+  width: 50%;
+  margin-left: 10px;
+  padding: 0 10px;
+  overflow: hidden;
+}
+#contact-form-text{
+  display: block;
+  width: 50%;
+  box-sizing: border-box;
+  margin: 16px 0;
+  border: 0;
+  background: #e087be;
+  padding: 5px 5px;
+  outline: none;
+  color: black;
+  transition: 0.5s;
+}
+#contact-form-text:focus{
+  box-shadow: 0 0 5px 5px #5b615b;
+}
+textarea #contact-form-text{
+  resize: none;
+  height: 60px;
+}
+#contact-form-btn{
+  float: left;
+  border: 0;
+  background: #e087be;
+  color: rgb(8, 8, 8);
+  border-radius: 5px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
