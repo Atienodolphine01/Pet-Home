@@ -1,3 +1,12 @@
+*{
+  box-sizing: border-box;
+}
+html, body{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(226, 117, 135);
+}
 .header{
     position: relative;
     width: 100%;
