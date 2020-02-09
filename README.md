@@ -6,5 +6,9 @@ Dolphine Atieno
 1. HTML
 2. CSS
 3. README
+4. Portfolio
 ### You can download project from
 ## https://github.com/Atienodolphine01/Pet-Home.git
+#Tecnologies used are:
+
+![](images/ivit-html-css.jpg)
