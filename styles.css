@@ -10,7 +10,7 @@
     height: 100%;
     display: block;
     margin-left: auto ;
-    padding-left: 60px;
+    padding-left: 80px;
     background-color: rgb(226, 117, 135);
 }
   .nav a{
@@ -37,6 +37,7 @@
   height: 100%;
   display: table-cell;
   vertical-align: middle;
+  padding-left: 10px;
   font-family: "Montserrat";
   font-size: 32px;
   font-weight: 200;
@@ -59,13 +60,13 @@
     left: 40%;
     font-family: 'teko' sans-serif
   }
-  .title h1{
+.title h1{
       font-size: 60px;
       color: rgb(236, 18, 127);
       text-align: center;
       margin: 0;
     }
-    p{
+  p{
       text-align: center;
       padding-top: 20px;
       font-family: 'Playfair Display',serif;
@@ -79,28 +80,4 @@
   #about h1{
       text-align: center;
   }
-  #footer{
-    width: 100%;
-    display: block;
-    overflow: hidden;
-    padding: 70px 0;
-    box-sizing: border-box;
-    background-color: #18181a;
-  }
-  #footer-info h2{
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: large;
-    color: white;
-    display: block;
-    font-weight: 200;
-    width: 100%;
-    padding-bottom: 5px;
-  }
-    #footer-info a{
-      font-family: 'Open Sans Condensed', sans-serif;
-      font-size: large;
-      color: white;
-      display: block;
-      font-weight: 200;
-      width: 100%;
-  }
+  c
