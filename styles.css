@@ -5,8 +5,9 @@ body{
   height: 100%;
   padding: 0;
   margin: 0;
-  background-color: rgb(226, 117, 135);
-  text-align: center;
+  background-color: white;
+  font-family: 'Lemonada', cursive;
+
 }
 .page-wrapper{
   min-height: 100%;
@@ -79,18 +80,19 @@ body{
       text-align: center;
       margin: 0;
     }
-  p{
+  #home p{
       text-align: center;
-      padding-top: 20px;
+      padding-top: 10px;
       font-family: 'Playfair Display',serif;
+      font-weight: 200px;
       font-size: large;
   }
   li{
     list-style-type: none;
   }
   #about img{
-      margin: 200px;
-      width: 70%;
+      margin-left: 150px;
+      width: 80%;
       height: 500px;
   }
   #about h1{
