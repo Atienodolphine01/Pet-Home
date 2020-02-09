@@ -11,4 +11,4 @@ Dolphine Atieno
 ## https://github.com/Atienodolphine01/Pet-Home.git
 #Tecnologies used are:
 
-![](images/ivit-html-css.jpg)
+<images src="ivit-html-css.jpg">
