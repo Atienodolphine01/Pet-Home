@@ -1,11 +1,12 @@
 *{
   box-sizing: border-box;
 }
-html, body{
+body{
   height: 100%;
   padding: 0;
   margin: 0;
   background-color: rgb(226, 117, 135);
+  text-align: center;
 }
 .page-wrapper{
   min-height: 100%;
@@ -36,7 +37,7 @@ html, body{
     float: left;
     margin-top: 20px;    
 }
-.pill-nav a:hover {
+.nav a:hover {
     color: white;
 }
 .logo-container{
@@ -84,25 +85,28 @@ html, body{
       font-family: 'Playfair Display',serif;
       font-size: large;
   }
+  li{
+    list-style-type: none;
+  }
   #about img{
-      padding-left: 200px;
+      margin: 200px;
       width: 70%;
       height: 500px;
   }
   #about h1{
       text-align: center;
   }
-  .footer{
+  #footer{
     background-color: #303036;
     color: #d3d3d3;
     height: 400px;
     position: relative;
   }
-  .footer .footer-content{
+  #footer #footer-content{
     border: 1px solid rgb(236 18 127);
     height: 350px;
   }
-  .footer .footer-bottom{
+  #footer #footer-bottom{
     background-color: #343a34;
     color: #686868;
     height: 50px;
