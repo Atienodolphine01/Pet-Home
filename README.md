@@ -8,8 +8,8 @@ Dolphine Atieno
 3. README
 4. Portfolio
 ### You can download project from
-## https://github.com/Atienodolphine01/Pet-Home.git
-#Tecnologies used are:
+##  https://atienodolphine01.github.io/Pets/
+ Tecnologies used are:
 
 ![html and css](https://bit.ly/37bY5z9)
 
