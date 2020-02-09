@@ -20,3 +20,6 @@ Dolphine Atieno
 ### awuordolphine65@gmail.com
 ### moringaschool.slack.com
 
+# Licence & Copyright
+© PetHome| Atieno Dolphine
+
