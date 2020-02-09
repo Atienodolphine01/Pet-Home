@@ -100,6 +100,7 @@ html, body{
   }
   .footer .footer-content{
     border: 1px solid rgb(236 18 127);
+    height: 350px;
   }
   .footer .footer-bottom{
     background-color: #343a34;
